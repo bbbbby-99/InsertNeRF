@@ -7,6 +7,7 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
 ![Pipeline in InsertNeRF](https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Fig2.png)
 ## Results
 ### InsertNeRF
+Results for all scenes are obtained through our InsertNeRF rendering following Setting I, without any retraining in testing scenes.
 <table>
   <tr>
     <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/lego.gif" alt="Lego GIF" width="200" /></td>

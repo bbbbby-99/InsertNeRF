@@ -23,12 +23,6 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
 </table>
 
 ### Insert-NeRF++
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Truckrgb.gif" alt="Lego GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Trainrgb.gif" alt="Chair GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Playgroundrgb.gif" alt="Ficus GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/M60rgb.gif" alt="Mic GIF" width="200" />
-</div>
 <table>
   <tr>
     <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Truckrgb.gif" alt="Lego GIF" width="200" /></td>

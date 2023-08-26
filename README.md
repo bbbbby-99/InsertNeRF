@@ -21,5 +21,7 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
     <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/materials.gif" alt="materials GIF" width="200" /></td>
   </tr>
 </table>
+
 ### Insert-NeRF++
+
 ### Insert-mip-NeRF

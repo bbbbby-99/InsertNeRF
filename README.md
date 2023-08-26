@@ -14,8 +14,8 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
     <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/mic.gif" alt="Mic GIF" width="200" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/hotdog.gif" alt="Lego GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/ship.gif" alt="Chair GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/drums.gif" alt="Ficus GIF" width="200" />
-    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/materials.gif" alt="Mic GIF" width="200" />
+    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/hotdog.gif" alt="hotdog GIF" width="200" />
+    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/ship.gif" alt="ship GIF" width="200" />
+    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/drums.gif" alt="drums GIF" width="200" />
+    <img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/materials.gif" alt="materials GIF" width="200" />
 </div>

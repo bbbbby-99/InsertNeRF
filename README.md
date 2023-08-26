@@ -33,3 +33,4 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
 </table>
 
 ### Insert-mip-NeRF
+It will be released soon.

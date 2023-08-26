@@ -22,6 +22,21 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/hornsrgb.gif" alt="Lego GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/fern.gif" alt="Chair GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/orchidsrgb.gif" alt="Ficus GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/leavesrgb.gif" alt="Mic GIF" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/hornsdepth.gif" alt="hotdog GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/fern_depth.gif" alt="ship GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/orchidsdepth.gif" alt="drums GIF" width="200" /></td>
+    <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/leavesdepth.gif" alt="materials GIF" width="200" /></td>
+  </tr>
+</table>
+
 ### Insert-NeRF++
 <table>
   <tr>

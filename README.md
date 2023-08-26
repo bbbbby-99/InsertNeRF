@@ -6,7 +6,7 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
 ## Pipeline
 ![Pipeline in InsertNeRF](https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/Fig2.png)
 ## Results
-### INsertNeRF
+### InsertNeRF
 <table>
   <tr>
     <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/lego.gif" alt="Lego GIF" width="200" /></td>
@@ -21,3 +21,5 @@ Generalizing Neural Radiance Fields (NeRF) to new scenes is a significant challe
     <td><img src="https://github.com/bbbbby-99/InsertNeRF/blob/main/gif%26image/materials.gif" alt="materials GIF" width="200" /></td>
   </tr>
 </table>
+### Insert-NeRF++
+### Insert-mip-NeRF

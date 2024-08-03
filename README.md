@@ -7,7 +7,22 @@ Clone this repository:
   cd InsertNeRF
   pip install -r requirements.txt
   ```
+### Train generalization model
+Train the model with NeuRay initialized from estimated depth of COLMAP:
+  ```js
+  python run_training.py --cfg configs/train/gen/insert_gen_depth_train.yaml
+  ```
+Models will be saved at data/model. 
 
+### Render with trained models
+  ```js
+  python render.py --cfg configs/gen/insert_gen_depth_train.yaml
+  ```
+### Evaluation
+Evaluation on all scenes in datasets, psnr/ssim/lpips will be printed on screen.
+  ```js
+  python eval.py
+  ```
 
 ## Results
 ### InsertNeRF
@@ -64,5 +79,5 @@ Results for all scenes are obtained through our InsertNeRF rendering following S
 ### Insert-mip-NeRF
 It will be released soon.
 ## Acknowledgements
-In this repository, we have used codes from the [NeuRay](https://github.com/liuyuan-pal/NeuRay). We thank all the authors for sharing great codes.
+In this repository, we build our codes based on the [NeuRay](https://github.com/liuyuan-pal/NeuRay). We thank all the authors for sharing great codes.
 

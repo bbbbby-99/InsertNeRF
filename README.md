@@ -1,4 +1,7 @@
 # InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules
+## Installation
+### Setup
+
 
 
 ## Results

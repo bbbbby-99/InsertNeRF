@@ -1,7 +1,12 @@
 # InsertNeRF: Instilling Generalizability into NeRF with HyperNet Modules
 ## Installation
 ### Setup
-
+Clone this repository:
+  ```js
+  git clone https://github.com/bbbbby-99/InsertNeRF.git
+  cd InsertNeRF
+  pip install -r requirements.txt
+  ```
 
 
 ## Results
@@ -58,3 +63,6 @@ Results for all scenes are obtained through our InsertNeRF rendering following S
 
 ### Insert-mip-NeRF
 It will be released soon.
+## Acknowledgements
+In this repository, we have used codes from the [NeuRay](https://github.com/liuyuan-pal/NeuRay). We thank all the authors for sharing great codes.
+
